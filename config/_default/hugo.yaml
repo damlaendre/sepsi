@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Damla and Endre # Website name
+baseURL: 'https://damlaendre.github.io/sepsi' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -28,14 +28,14 @@ cascade:
     header:
       navbar:
         enable: true
-  # Blog section options
-  - _target:
-      path: /post/*
-      kind: section
-    # Change url to /blog/
-    url: /blog/
-    # Set the listing view
-    view: date-title-summary
+#  # Blog section options
+#  - _target:
+#      path: /post/*
+#      kind: section
+#    # Change url to /blog/
+#    url: /blog/
+#    # Set the listing view
+#    view: date-title-summary
 
 ############################
 ## LANGUAGE
