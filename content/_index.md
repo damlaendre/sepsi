@@ -77,6 +77,6 @@ sections:
     id: contact
     content:
       title: Contact
-      text: You can get in touch with us at [damlaendre@gmail.com](email:damlaendre@gmail.com), or at [+4915168744123](call:+4915168744123)
+      text: You can get in touch with us at [damlaendre@gmail.com](email:damlaendre@gmail.com), or at [+4915168744123](call:+4915168744123) (Endre)
   
 ---
