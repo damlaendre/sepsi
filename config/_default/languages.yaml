@@ -4,7 +4,7 @@
 
 # Default language
 en:
-  baseURL: 'https://damlaendre.github.io/sepsi/en'
+  # baseURL: 'https://damlaendre.github.io/sepsi/en'
   languageCode: en-us
   contentDir: content/en/
   title: Damla & Endre
