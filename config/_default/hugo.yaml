@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Damla & Endre # Website name
-baseURL: 'https://damlaendre.github.io/sepsi' # Website URL
+baseURL: 'https://damlaendre.github.io/sepsi/hu' # Website URL
 
 ############################
 ## PAGE OPTIONS

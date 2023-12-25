@@ -39,7 +39,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 hu:
-  baseURL: 'https://damlaendre.github.io/sepsi/'
+  baseURL: 'https://damlaendre.github.io/sepsi/hu'
   languageCode: hu
   contentDir: content/hu
   title: Damla & Endre
