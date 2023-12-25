@@ -43,7 +43,7 @@ cascade:
 
 defaultContentLanguage: hu
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################

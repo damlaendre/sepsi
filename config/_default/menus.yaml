@@ -19,7 +19,7 @@ main:
     url: /#accommodation
     weight: 50
   - name: Transportation
-    url: travel/
+    url: /travel/
     weight: 60
   - name: Contact
     url: /#contact
