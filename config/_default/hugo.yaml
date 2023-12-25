@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Damla and Endre # Website name
+title: Damla & Endre # Website name
 baseURL: 'https://damlaendre.github.io/sepsi' # Website URL
 
 ############################
@@ -41,7 +41,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: hu
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

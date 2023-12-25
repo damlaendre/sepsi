@@ -4,7 +4,35 @@
 
 # Default language
 en:
+  baseURL: 'https://damlaendre.github.io/sepsi/en'
   languageCode: en-us
+  contentDir: content/en/
+  title: Damla & Endre
+  params:
+    description: 👋 Welcome to our wedding website! 👋
+#  menu:
+#    main:
+#      - name: Home
+#        url: /#top
+#        weight: 10
+#      - name: RSVP
+#        url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+#        weight: 20
+#      - name: Schedule
+#        url: /#schedule
+#        weight: 30
+#      - name: Venue
+#        url: /#venue
+#        weight: 40
+#      - name: Accommodation
+#        url: /#accommodation
+#        weight: 50
+#      - name: Transportation
+#        url: travel/
+#        weight: 60
+#      - name: Contact
+#        url: /#contact
+#        weight: 70
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -13,11 +41,26 @@ en:
 hu:
   languageCode: hu
   contentDir: content/hu
-  title: Damla és Endre eskűvő
+  title: Damla & Endre
   params:
-    description: Üdvözlünk eskűvői honlapunkon!
-  menu:
-    main:
-      - name: Főoldal
-        url: '#about'
-        weight: 1
+    description: 👋 Üdvözlünk eskűvői honlapunkon! 👋
+  #menu:
+#main:
+#- name: Főoldal
+#url: /#top
+#weight: 10
+#- name: Részvétel
+#url: https://forms.gle/SU54TxtCUmC9obbq8
+#weight: 20
+#- name: Program
+#url: /#schedule
+#weight: 30
+#- name: Helyszín
+#url: /#venue
+#weight: 40
+#- name: Szálláshely
+#url: /#accommodation
+#weight: 50
+#- name: Elérhetőség
+#url: /#contact
+#weight: 70
