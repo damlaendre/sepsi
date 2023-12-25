@@ -4,23 +4,23 @@
 
 main:
   - name: Home
-    url: /#top
+    url: https://damlaendre.github.io/sepsi/en/#top
     weight: 10
   - name: RSVP
     url: https://forms.gle/2Eq7oZhvQa5VHxc87/
     weight: 20
   - name: Schedule
-    url: /#schedule
+    url: https://damlaendre.github.io/sepsi/en/#schedule
     weight: 30
   - name: Venue
-    url: /#venue
+    url: https://damlaendre.github.io/sepsi/en/#venue
     weight: 40
   - name: Accommodation
-    url: /#accommodation
+    url: https://damlaendre.github.io/sepsi/en/#accommodation
     weight: 50
   - name: Transportation
-    url: travel/
+    url: https://damlaendre.github.io/sepsi/en/travel/
     weight: 60
   - name: Contact
-    url: /#contact
+    url: https://damlaendre.github.io/sepsi/en/#contact
     weight: 70
