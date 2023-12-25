@@ -11,16 +11,16 @@ sections:
   - block: hero
     content:
       title: Damla & Endre
-      text: 👋 Welcome to our wedding website! 👋
+      text: 👋 Üdvözlünk esküvőnk honlapján! 👋
       primary_action:
-        text: RSVP
-        url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+        text: Részvétel
+        url: https://forms.gle/SU54TxtCUmC9obbq8
         icon: calendar-days
       announcement:
-        text: At this stage, we ask you to take note of the date and 
+        text: Most arra kérnénk, hogy jegyezd le a dátumot és  
         link:
-          text: RSVP
-          url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+          text: közöld részvételi szándékod
+          url: https://forms.gle/SU54TxtCUmC9obbq8
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -36,33 +36,32 @@ sections:
   - block: markdown
     id: schedule
     content:
-      title: Schedule
-      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2023. More details will follow.
+      title: Program
+      text: Az esküvőre 2023. július 20-án kerül sor, és július 21-én reggelig tart. További részletek következnek.
   - block: cta-image-paragraph
     id: venue
     content:
       items:
-        - title: Venue
+        - title: Helyszín
           text: ⭐ Panorama Boutique Hotel ⭐
           feature_icon: check
           features:
-            - "Address: Calea Valcele, DN13E 9, Sfântu Gheorghe 527175"
-            - "[See here the Google maps link📍](https://maps.app.goo.gl/1Afw4j53wqjFV3YF7)"
-            - "Website: http://www.panoramacenter.ro/"
-            - "Note: the venue is outside of Sepsiszentgyörgy, therefore we recommend staying overnight at one of the other accommodation alternative."
+            - "Cím: Calea Valcele, DN13E 9, Sfântu Gheorghe 527175"
+            - "Honlap: http://www.panoramacenter.ro/"
+            - "Megjegyzés: a helyszín Sepsiszentgyörgyön kívül van, ezért javasoljuk a többi szálláshely valamelyikét."
           # Upload image to `assets/media/` and reference the filename here
           image: panorama1.jpg
           button:
-            text: How to get there & around
-            url: /sepsi/travel
+            text: Google maps link📍
+            url: https://maps.app.goo.gl/1Afw4j53wqjFV3YF7
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: accommodation
     content:
       items:
-        - title: Accommodation
-          text: 🛏️ These are some possible websites with accommodation option in Sepsiszentgyörgy. It is a fairly small town, with walking distance to pretty much everywhere (except the wedding venue). Nevertheless, most restaurants, bars, and so on are in the center, so consider staying around there.
+        - title: Szálláshely
+          text: 🛏️ Néhány lehetséges weboldal szálláslehetőséggel Sepsiszentgyörgyön&#58; 
           feature_icon: check
           features:
             - "[trivago.ro](https://www.trivago.ro/en-US/lm?search=200-66808%3Bdr-20240719-20240721%3Brc-2-2)"
@@ -76,10 +75,11 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: Contact
+      title: Elérhetőség
       text: |-
-        You can get in touch with us at:
+        A következő módokon léphetsz kapcsolatba velünk:
         - 📧 [damlaendre@gmail.com](email:damlaendre@gmail.com)
-        - 📞 Endre Borbáth: [+49 1516 8744 123](call:+4915168744123)
-        - 📞 Zsuzsánna-Ella Borbáth: [+40 758 236 181](call:+40758236181)
+        - 📞 Borbáth Endre: [+49 1516 8744 123](call:+4915168744123)
+        - 📞 Borbáth Zsuzsánna-Ella: [+40 758 236 181](call:+40758236181)
+
 ---

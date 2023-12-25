@@ -40,7 +40,7 @@ en:
 #zh:
 hu:
   languageCode: hu
-  contentDir: content/hu
+  contentDir: content/hu/
   title: Damla & Endre
   params:
     description: 👋 Üdvözlünk eskűvői honlapunkon! 👋
