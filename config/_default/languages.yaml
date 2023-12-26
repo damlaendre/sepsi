@@ -24,7 +24,7 @@ en:
         url: https://damlaendre.github.io/sepsi/#venue
         weight: 40
       - name: Accommodation
-        url: https://damlaendre.github.io/sepsi/en/#accommodation
+        url: https://damlaendre.github.io/sepsi/#accommodation
         weight: 50
       - name: Transportation
         url: https://damlaendre.github.io/sepsi/travel/
