@@ -12,16 +12,16 @@ en:
   menu:
     main:
       - name: Home
-        url: https://damlaendre.github.io/sepsi/en/#top
+        url: https://damlaendre.github.io/sepsi/#top
         weight: 10
       - name: RSVP
         url: https://forms.gle/2Eq7oZhvQa5VHxc87/
         weight: 20
       - name: Schedule
-        url: https://damlaendre.github.io/sepsi/en/#schedule
+        url: https://damlaendre.github.io/sepsi/#schedule
         weight: 30
       - name: Venue
-        url: https://damlaendre.github.io/sepsi/en/#venue
+        url: https://damlaendre.github.io/sepsi/#venue
         weight: 40
       - name: Accommodation
         url: https://damlaendre.github.io/sepsi/en/#accommodation
@@ -30,7 +30,7 @@ en:
         url: https://damlaendre.github.io/sepsi/travel/
         weight: 60
       - name: Contact
-        url: https://damlaendre.github.io/sepsi/en/#contact
+        url: https://damlaendre.github.io/sepsi/#contact
         weight: 70
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
