@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Damla & Endre
+      title: Damla és Endre
       text: 👋 Üdvözlünk esküvőnk honlapján! 👋
       primary_action:
         text: Itt tudod jelezni részvételi szándékod
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Program
-      text: Az esküvőnk 2023. július 20-án lesz, és július 21-én reggelig tart. További részletek következnek.
+      text: Az esküvőnk 2023. július 20-án lesz és július 21-én reggelig tart. További részletek következnek.
   - block: cta-image-paragraph
     id: venue
     content:
