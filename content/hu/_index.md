@@ -13,7 +13,7 @@ sections:
       title: Damla & Endre
       text: 👋 Üdvözlünk esküvőnk honlapján! 👋
       primary_action:
-        text: Részvétel
+        text: Itt tudod jelezni részvételi szándékod
         url: https://forms.gle/SU54TxtCUmC9obbq8
         icon: calendar-days
       announcement:
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Program
-      text: Az esküvőre 2023. július 20-án kerül sor, és július 21-én reggelig tart. További részletek következnek.
+      text: Az esküvőnk 2023. július 20-án lesz, és július 21-én reggelig tart. További részletek következnek.
   - block: cta-image-paragraph
     id: venue
     content:
@@ -48,7 +48,7 @@ sections:
           features:
             - "Cím: Calea Valcele, DN13E 9, Sfântu Gheorghe 527175"
             - "Honlap: http://www.panoramacenter.ro/"
-            - "Megjegyzés: a helyszín Sepsiszentgyörgyön kívül van, ezért javasoljuk a többi szálláshely valamelyikét."
+            - "Megjegyzés: a helyszín Sepsiszentgyörgyön kívül, Előpatak közelében van, ezért javasoljuk a többi szálláshely valamelyikét."
           # Upload image to `assets/media/` and reference the filename here
           image: panorama1.jpg
           button:
