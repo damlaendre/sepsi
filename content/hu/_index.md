@@ -79,7 +79,7 @@ sections:
       text: |-
         A következő módokon léphetsz kapcsolatba velünk:
         - 📧 [damlaendre@gmail.com](email:damlaendre@gmail.com)
-        - 📞 Borbáth Endre: [+49 1516 8744 123](call:+4915168744123)
-        - 📞 Borbáth Zsuzsánna-Ella: [+40 758 236 181](call:+40758236181)
+        - 📞 Endre: [+49 1516 8744 123](call:+4915168744123)
+        - 📞 Zsuzsa: [+40 758 236 181](call:+40758236181)
 
 ---
