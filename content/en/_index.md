@@ -14,13 +14,13 @@ sections:
       text: 👋 Welcome to our wedding website! 👋
       primary_action:
         text: RSVP
-        url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+        url: https://forms.gle/YQ5RkTpYpiscE9CY8
         icon: calendar-days
       announcement:
         text: At this stage, we ask you to take note of the date and 
         link:
           text: RSVP
-          url: https://forms.gle/2Eq7oZhvQa5VHxc87/
+          url: https://forms.gle/YQ5RkTpYpiscE9CY8
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Schedule
-      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2023. More details will follow.
+      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2024. More details will follow.
   - block: cta-image-paragraph
     id: venue
     content:

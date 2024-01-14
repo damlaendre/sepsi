@@ -14,13 +14,13 @@ sections:
       text: 👋 Üdvözlünk esküvőnk honlapján! 👋
       primary_action:
         text: Itt tudod jelezni részvételi szándékod
-        url: https://forms.gle/SU54TxtCUmC9obbq8
+        url: https://forms.gle/3oHhiWoo6Yjh8tHGA
         icon: calendar-days
       announcement:
         text: Most arra kérnénk, hogy jegyezd le a dátumot és  
         link:
           text: közöld részvételi szándékod
-          url: https://forms.gle/SU54TxtCUmC9obbq8
+          url: https://forms.gle/3oHhiWoo6Yjh8tHGA
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Program
-      text: Az esküvőnk 2023. július 20-án lesz és július 21-én reggelig tart. További részletek következnek.
+      text: Az esküvőnk 2024. július 20-án lesz és július 21-én reggelig tart. További részletek következnek.
   - block: cta-image-paragraph
     id: venue
     content:
