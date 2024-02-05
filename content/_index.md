@@ -19,7 +19,7 @@ sections:
       announcement:
         text: Most arra kérnénk, hogy jegyezd le a dátumot és  
         link:
-          text: közöld részvételi szándékod
+          text: közöld részvételi szándékod Április 30.-ig.
           url: https://forms.gle/3oHhiWoo6Yjh8tHGA
     design:
       spacing:
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Program
-      text: Az esküvőre 2024. július 20-án kerül sor, és július 21-én reggelig tart. További részletek következnek.
+      text: Az esküvőre 2024. július 20-án kerül sor, és július 21-én reggelig tart. Kérünk közöld részvételi szándékod Április 30.-ig. További részletek következnek.
   - block: cta-image-paragraph
     id: venue
     content:

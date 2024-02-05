@@ -19,7 +19,7 @@ sections:
       announcement:
         text: At this stage, we ask you to take note of the date and 
         link:
-          text: RSVP
+          text: RSVP by the 30th of April.
           url: https://forms.gle/YQ5RkTpYpiscE9CY8
     design:
       spacing:
@@ -37,7 +37,7 @@ sections:
     id: schedule
     content:
       title: Schedule
-      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2024. More details will follow.
+      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2024. Please RSVP by the 30th of April. More details will follow.
   - block: cta-image-paragraph
     id: venue
     content:
