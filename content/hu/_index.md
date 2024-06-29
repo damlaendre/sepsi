@@ -12,15 +12,8 @@ sections:
     content:
       title: Damla és Endre
       text: 👋 Üdvözlünk esküvőnk honlapján! 👋
-      primary_action:
-        text: Itt tudod jelezni részvételi szándékod
-        url: https://forms.gle/3oHhiWoo6Yjh8tHGA
-        icon: calendar-days
       announcement:
-        text: Most arra kérnénk, hogy jegyezd le a dátumot és  
-        link:
-          text: közöld részvételi szándékod Április 15.-ig.
-          url: https://forms.gle/3oHhiWoo6Yjh8tHGA
+        text: 
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -33,11 +26,18 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
-  - block: markdown
+  - block: cta-image-paragraph
     id: schedule
     content:
-      title: Program
-      text: Az esküvőnk 2024. július 20-án lesz és július 21-én reggelig tart. Kérünk közöld részvételi szándékod Április 15.-ig. További részletek következnek.
+      items:
+        - title: Program
+          feature_icon: check
+          features: 
+            - "Az esküvőnk 2024. július 20-án lesz és július 21-én reggelig tart."
+            - "A ceremónia 17 órától kezdődik, a Panoráma Hotel kertjében."
+          image: RO_invite.jpeg
+          design:
+            css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: venue
     content:
@@ -72,6 +72,15 @@ sections:
           image: szentgyorgy-bazar.jpg
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: photos
+    content:
+      title: Fotók
+      text: |-
+        - ☆ Nagyon értékelnénk ha megosztod fotóid velünk! ☆
+        - ☆ Az esemény után küldünk egy válogatást minden vendégnek. ☆
+        - <br>
+        - <a href="https://www.dropbox.com/request/Mrt6o971jFehHJscqq92" target="_blank" style="display: block; margin: 0 auto; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; width: fit-content;">Itt tudod őket feltölteni.</a>
   - block: markdown
     id: contact
     content:

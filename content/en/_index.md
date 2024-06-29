@@ -12,15 +12,8 @@ sections:
     content:
       title: Damla & Endre
       text: 👋 Welcome to our wedding website! 👋
-      primary_action:
-        text: RSVP
-        url: https://forms.gle/YQ5RkTpYpiscE9CY8
-        icon: calendar-days
       announcement:
-        text: At this stage, we ask you to take note of the date and 
-        link:
-          text: RSVP by the 15th of April.
-          url: https://forms.gle/YQ5RkTpYpiscE9CY8
+        text: 
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -33,11 +26,18 @@ sections:
           filename: lupines.jpg
           filters:
             brightness: 0.2
-  - block: markdown
+  - block: cta-image-paragraph
     id: schedule
     content:
-      title: Schedule
-      text: The wedding will take place on Jul. 20, and last until the morning of Jul. 21st, 2024. Please RSVP by the 15th of April. More details will follow.
+      items:
+        - title: Program
+          feature_icon: check
+          features: 
+            - "Our wedding starts on the 20th of July, and lasts until the morning on the 21st of July."
+            - "The ceremony starts at 17 o'clock, in the garden of the Panorama Hotel."
+          image: RO_invite.jpeg
+          design:
+            css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-image-paragraph
     id: venue
     content:
@@ -73,6 +73,15 @@ sections:
           image: szentgyorgy-bazar.jpg
           design:
             css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: markdown
+    id: photos
+    content:
+      title: Photos
+      text: |-
+        - ☆ We would grately appreciate if you could share your photos with us! ☆
+        - ☆ We will share a selection with all guests after the event. ☆
+        - <br>
+        - <a href="https://www.dropbox.com/request/Mrt6o971jFehHJscqq92" target="_blank" style="display: block; margin: 0 auto; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; width: fit-content;">Please upload them here</a>
   - block: markdown
     id: contact
     content:

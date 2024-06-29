@@ -18,6 +18,9 @@ main:
   - name: Szálláshely
     url: /#accommodation
     weight: 50
+  - name: Fotók
+    url: /#photos
+    weight: 60
   - name: Elérhetőség
     url: /#contact
     weight: 70

@@ -29,9 +29,12 @@ en:
       - name: Transportation
         url: https://damlaendre.github.io/sepsi/travel/
         weight: 60
+      - name: Photo
+        url: https://damlaendre.github.io/sepsi/#photos
+        weight: 70
       - name: Contact
         url: https://damlaendre.github.io/sepsi/#contact
-        weight: 70
+        weight: 80
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
