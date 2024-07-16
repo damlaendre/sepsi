@@ -21,7 +21,10 @@ main:
   - name: Fotók
     url: /#photos
     weight: 60
+  - name: Taxi
+    url: /#taxi
+    weight: 70
   - name: Elérhetőség
     url: /#contact
-    weight: 70
+    weight: 80
     

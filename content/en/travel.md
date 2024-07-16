@@ -27,5 +27,5 @@ The main car rental companies are all present in Romania, usually at the airport
 
 #### 🚕 Taxis
 
-Please note that you can only pay for taxis in cash, in Romanian lei. Some of the taxi numbers in Sepsiszentgyörgy are: [+40740439999](call:+40740439999); [+40723484060](call:+40723484060); [+40744839707](call:+40744839707); [+40722271903](call:+40722271903).
+Please note that you can only pay for taxis in cash, in Romanian lei. Some of the taxi numbers in Sepsiszentgyörgy are: [+40745161969](call:+40745161969); [+40740439999](call:+40740439999); [+40723484060](call:+40723484060); [+40744839707](call:+40744839707); [+40722271903](call:+40722271903).
 

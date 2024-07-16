@@ -83,6 +83,17 @@ sections:
         - <br>
         - <a href="https://www.dropbox.com/request/Mrt6o971jFehHJscqq92" target="_blank" style="display: block; margin: 0 auto; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; text-decoration: none; width: fit-content;">Please upload them here</a>
   - block: markdown
+    id: taxi
+    content:
+      title: Taxi
+      text: |-
+        You can call a taxi at one of these numbers:
+        - 📞 [+40745161969](call:+40745161969) 
+        - 📞 [+40740439999](call:+40740439999)
+        - 📞 [+40723484060](call:+40723484060) 
+        - 📞 [+40744839707](call:+40744839707)
+        - 📞 [+40722271903](call:+40722271903)
+  - block: markdown
     id: contact
     content:
       title: Contact

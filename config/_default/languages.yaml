@@ -32,9 +32,12 @@ en:
       - name: Photo
         url: https://damlaendre.github.io/sepsi/#photos
         weight: 70
+      - name: Taxi
+        url: https://damlaendre.github.io/sepsi/#taxi
+        weight: 80
       - name: Contact
         url: https://damlaendre.github.io/sepsi/#contact
-        weight: 80
+        weight: 90
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

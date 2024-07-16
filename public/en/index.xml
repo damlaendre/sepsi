@@ -309,7 +309,7 @@
 
 
 
-&lt;div id=&#34;chart-628459731&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-293415786&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Wowchemy fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-628459731&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-293415786&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -718,7 +718,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;h4 id=&#34;-car-rentals&#34;&gt;🚗 Car rentals&lt;/h4&gt;
 &lt;p&gt;The main car rental companies are all present in Romania, usually at the airports, but not only. A local alternative is: &lt;a href=&#34;https://www.westtaxi.ro/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.westtaxi.ro/en/&lt;/a&gt; You can also use this company to book a private airport transfer.&lt;/p&gt;
 &lt;h4 id=&#34;-taxis&#34;&gt;🚕 Taxis&lt;/h4&gt;
-&lt;p&gt;Please note that you can only pay for taxis in cash, in Romanian lei. Some of the taxi numbers in Sepsiszentgyörgy are: &lt;a href=&#34;call:&amp;#43;40740439999&#34;&gt;+40740439999&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40723484060&#34;&gt;+40723484060&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40744839707&#34;&gt;+40744839707&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40722271903&#34;&gt;+40722271903&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note that you can only pay for taxis in cash, in Romanian lei. Some of the taxi numbers in Sepsiszentgyörgy are: &lt;a href=&#34;call:&amp;#43;40745161969&#34;&gt;+40745161969&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40740439999&#34;&gt;+40740439999&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40723484060&#34;&gt;+40723484060&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40744839707&#34;&gt;+40744839707&lt;/a&gt;; &lt;a href=&#34;call:&amp;#43;40722271903&#34;&gt;+40722271903&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
